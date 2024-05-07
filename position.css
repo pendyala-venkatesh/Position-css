@@ -1,0 +1,78 @@
+#parent
+{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+}
+#child
+{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    position: relative;
+    border: 10px;
+    top:20PX;
+    left: 30px;
+    
+}
+#parent2
+{
+    width: 500px;
+    height: 380px;
+    background-color: blueviolet;
+    
+}
+#child2
+{
+    width: 300px;
+    height:250px;
+    background-color: bisque;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+#parent3
+{
+    width:450px;
+    height:250px;
+    background-color: aquamarine;
+}
+#child3
+{
+    width: 500px;
+    height:400px;
+    background-color:violet;
+    position:relative;
+    top:20px;
+    left:30px;
+    border: 20px;
+}
+#parent4
+{
+    width:500px;
+    height:300px;
+    background-color: goldenrod;
+}
+#child4
+{
+width:300px;
+height:200px;
+background-color: black;
+position:fixed;
+bottom: 20px;
+left:10px;
+}
+#parent5
+{
+
+    width: 400px;
+    height: 230px;
+    background-color: chocolate;
+}
+#child5
+{
+    background-color: cornflowerblue;
+    position: sticky;
+    width: 300px;
+    height: 200px;
+}
